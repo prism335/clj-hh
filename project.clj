@@ -14,7 +14,7 @@
                      [lein-ring "0.3.3"]
                      [lein-gae "0.1.0"]
                      [ring-mock "0.1.1"]
-                     [midje "1.1-alpha-3"]
+                     [midje "1.1"]
                      [leiningen-midje "1.0.0-SNAPSHOT"]
                      [lein-goog "0.1.0"]
                      [com.google/soy-to-js-src "20100708"]
